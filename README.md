@@ -34,6 +34,7 @@ Para el segundo ejercicio INTERFAZ – PRUEBA DE FUNCIONALIDAD, se automatizo la
 6.1.- Desde VSC en la ruta src\test\java\test\RegisterForm.java es posible ejecutar la prueba
 
 6.2.- Desde Eclipse desde el archivo testng.xml (en la raíz de la carpeta) se puede ejecutar usando TestNG
+
 	Run As TestNG suite
 
 7.- En la carpeta se encuentra INTERFAZ_PRUEBA_DE_FUNCIONALIDAD un pdf con los casos de uso utilizados para este ejercicio.  
